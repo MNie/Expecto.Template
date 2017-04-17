@@ -1,4 +1,5 @@
 [![NuGet Pre Release](https://img.shields.io/nuget/vpre/Expecto.Template.svg)](https://www.nuget.org/packages/Expecto.Template)
+[![Build Status](https://travis-ci.org/MNie/Expecto.Template.svg?branch=master)](https://travis-ci.org/MNie/Expecto.Template)
 
 # Expecto .net core Template
 It's a template for [Expecto](https://github.com/haf/expecto) F# test framework.
