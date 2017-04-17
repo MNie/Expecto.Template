@@ -1,0 +1,11 @@
+{
+    "author": "Michał Niegrzybowski",
+    "classifications": [ "Test" ],
+    "name": "Expecto .net core Template",
+    "identity": "Expecto.Template",        
+    "shortName": "expecto",              
+    "tags": {
+        "language": "F#"                
+    },
+    "sourceName": "ExpectoTemplate"
+}
