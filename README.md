@@ -1,4 +1,5 @@
 [![NuGet Pre Release](https://img.shields.io/nuget/vpre/Expecto.Template.svg)](https://www.nuget.org/packages/Expecto.Template)
+[![Build Status](https://travis-ci.org/MNie/Expecto.Template.svg?branch=master)](https://travis-ci.org/MNie/Expecto.Template)
 
 # Expecto .net core Template
 It's a template for [Expecto](https://github.com/haf/expecto) F# test framework.
@@ -8,7 +9,7 @@ It's a template for [Expecto](https://github.com/haf/expecto) F# test framework.
 * install template as a .net core template locally
 
 # How to install it as a template from nuget?
-* run `dotnet new -i Expecto.Template::1.0.0-beta1`
+* run `dotnet new -i Expectp.Template::1.0.0-beta1`
 * create new project executing `dotnet new expecto -n PROJECT_NAME -o FOLDER_NAME`
 
 # How to install it as a template locally?
