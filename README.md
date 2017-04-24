@@ -20,5 +20,5 @@ It's a template for [Expecto](https://github.com/haf/expecto) F# test framework.
 * `dotnet run` or `dotnet watch run`
 
 # How it works?
-* ![dotnet run](https://github.com/MNie/Expecto.Template/images/expecto.gif)
-* ![dotnet watch run](https://github.com/MNie/Expecto.Template/images/expectowatch.gif)
+* ![dotnet run](https://raw.githubusercontent.com/MNie/Expecto.Template/master/images/expecto.gif)
+* ![dotnet watch run](https://raw.githubusercontent.com/MNie/Expecto.Template/master/images/expectowatch.gif)
