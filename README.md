@@ -1,4 +1,4 @@
-[![NuGet Pre Release](https://img.shields.io/nuget/vpre/Expecto.Template.svg)](https://www.nuget.org/packages/Expecto.Template)
+[![NuGet Pre Release](https://buildstats.info/nuget/Expecto.Template?includePreReleases=true)](https://www.nuget.org/packages/Expecto.Template)
 [![Build Status](https://travis-ci.org/MNie/Expecto.Template.svg?branch=master)](https://travis-ci.org/MNie/Expecto.Template)
 
 # Expecto .net core Template
