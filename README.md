@@ -2,7 +2,7 @@
 [![Build Status](https://travis-ci.org/MNie/Expecto.Template.svg?branch=master)](https://travis-ci.org/MNie/Expecto.Template)
 
 # Expecto .net core Template
-It's a template for [Expecto](https://github.com/haf/expecto) F# test framework.
+It's a template for [Expecto](https://github.com/haf/expecto) F# test library.
 
 # How to use it?
 * install template as a .net core template from nuget
