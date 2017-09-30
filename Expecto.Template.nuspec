@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package >
+  <metadata>
+    <id>Expecto.Template</id>
+    <version>6.0.0</version>
+    <authors>Michał Niegrzybowski</authors>
+    <owners>Michał Niegrzybowski</owners>
+    <licenseUrl>https://github.com/MNie/Expecto.Template/blob/master/LICENSE</licenseUrl>
+    <projectUrl>https://github.com/MNie/Expecto.Template</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Expecto .net core Template</description>
+    <copyright>Copyright 2017</copyright>
+    <tags>.net core Expecto template</tags>
+    <packageTypes>
+      <packageType name="Template"/>
+    </packageTypes>
+	<dependencies>
+		<dependency id="Expecto" version="[5.0.0, 6.0.0)"/>
+	</dependencies>
+  </metadata>
+</package>
