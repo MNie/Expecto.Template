@@ -2,21 +2,21 @@
 <package >
   <metadata>
     <id>Expecto.Template</id>
-    <version>7.0.0-RC</version>
+    <version>7.0.0</version>
     <authors>Michał Niegrzybowski</authors>
     <owners>Michał Niegrzybowski</owners>
     <licenseUrl>https://github.com/MNie/Expecto.Template/blob/master/LICENSE</licenseUrl>
     <projectUrl>https://github.com/MNie/Expecto.Template</projectUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <description>Expecto .net core Template</description>
-    <copyright>Copyright 2017</copyright>
+    <copyright>Copyright 2018</copyright>
     <tags>.net core Expecto template</tags>
     <packageTypes>
       <packageType name="Template"/>
     </packageTypes>
 	<dependencies>
-		<dependency id="Expecto" version="[5.0.0, 6.0.0)"/>
-    <dependency id="YoloDev.Expecto.TestSdk" version="[0.1.0, 1.0.0)"/>
+		<dependency id="Expecto" version="[6.0.0, 7.0.0)"/>
+    <dependency id="YoloDev.Expecto.TestSdk" version="[0.4.0, 1.0.0)"/>
     <dependency id="Microsoft.NET.Test.Sdk" version="[15.0.0, 16.0.0)"/>
 	</dependencies>
   </metadata>
