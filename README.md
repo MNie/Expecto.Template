@@ -10,12 +10,12 @@ It's a template for [Expecto](https://github.com/haf/expecto) F# test library.
 
 # How to install it as a template from nuget?
 * run `dotnet new -i "Expecto.Template::*"`
-* create new project executing `dotnet new expecto -n PROJECT_NAME -o FOLDER_NAME`
+* create new project executing `dotnet new expecto -n PROJECT_NAME -o FOLDER_NAME -lang F#`
 
 # How to install it as a template locally?
 * download repository
 * run command `dotnet new -i PATH`, where PATH is a path to a folder where project is located
-* create new project executing `dotnet new expecto -n PROJECT_NAME -o FOLDER_NAME` (since there is a [known issue in dotnet cli](https://github.com/dotnet/templating/issues/1401) you have to provide also `-lang F#` parameter)
+* create new project executing `dotnet new expecto -n PROJECT_NAME -o FOLDER_NAME -lang F#` (since there is a [known issue in dotnet cli](https://github.com/dotnet/templating/issues/1401) you have to provide also `-lang F#` parameter)
 * `dotnet restore`
 * `dotnet run` or `dotnet watch run`
 
