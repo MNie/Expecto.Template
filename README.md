@@ -9,7 +9,7 @@ It's a template for [Expecto](https://github.com/haf/expecto) F# test library.
 * install template as a .net core template locally
 
 # How to install it as a template from nuget?
-* run `dotnet new -i Expecto.Template
+* run `dotnet new -i Expecto.Template`
 * create new project executing `dotnet new expecto -n PROJECT_NAME -o FOLDER_NAME -lang F#`
 
 # How to install it as a template locally?
