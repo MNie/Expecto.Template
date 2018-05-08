@@ -2,7 +2,7 @@
 <package >
   <metadata>
     <id>Expecto.Template</id>
-    <version>8.3.0</version>
+    <version>9.0.0</version>
     <authors>Michał Niegrzybowski</authors>
     <owners>Michał Niegrzybowski</owners>
     <licenseUrl>https://github.com/MNie/Expecto.Template/blob/master/LICENSE</licenseUrl>
