@@ -17,7 +17,7 @@ It's a template for [Expecto](https://github.com/haf/expecto) F# test library.
 * run command `dotnet new -i PATH`, where PATH is a path to a folder where project is located
 * create new project executing `dotnet new expecto -n PROJECT_NAME -o FOLDER_NAME -lang F#` (since there is a [known issue in dotnet cli](https://github.com/dotnet/templating/issues/1401) `-lang F#` parameter is currently required)
 * `dotnet restore`
-* `dotnet run` or `dotnet watch run`
+* `dotnet run` or `dotnet watch run` or `dotnet test` or `dotnet watch test`
 
 # How it works?
 * ![dotnet run && dotnet test](https://raw.githubusercontent.com/MNie/Expecto.Template/master/images/expecto.gif)
