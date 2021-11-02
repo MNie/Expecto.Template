@@ -2,15 +2,15 @@
 <package >
   <metadata>
     <id>Expecto.Template</id>
-    <version>13.0.1</version>
+    <version>14.0.0</version>
     <authors>Michał Niegrzybowski</authors>
     <owners>Michał Niegrzybowski</owners>
     <licenseUrl>https://github.com/MNie/Expecto.Template/blob/master/LICENSE</licenseUrl>
     <projectUrl>https://github.com/MNie/Expecto.Template</projectUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
-    <description>Expecto .net core Template</description>
+    <description>Expecto .net Template</description>
     <copyright>Copyright 2019</copyright>
-    <tags>.net core Expecto template</tags>
+    <tags>.net Expecto template</tags>
     <packageTypes>
       <packageType name="Template"/>
     </packageTypes>
