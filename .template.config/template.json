@@ -1,7 +1,7 @@
 {
     "author": "Michał Niegrzybowski",
     "classifications": [ "Test" ],
-    "name": "Expecto .net core Template",
+    "name": "Expecto .NET core Template",
     "identity": "Expecto.Template",        
     "shortName": "expecto",              
     "tags": {

@@ -1,16 +1,16 @@
 [![NuGet Pre Release](https://buildstats.info/nuget/Expecto.Template?includePreReleases=true)](https://www.nuget.org/packages/Expecto.Template)
 [![Build Status](https://travis-ci.org/MNie/Expecto.Template.svg?branch=master)](https://travis-ci.org/MNie/Expecto.Template)
 
-# Expecto .net Template
+# Expecto .NET Template
 It's a template for [Expecto](https://github.com/haf/expecto) F# test library.
 
 # How to use it?
-* install template as a .net template from nuget
-* install template as a .net template locally
+* install template as a .NET template from nuget
+* install template as a .NET template locally
 
-# How to install it as a template from nuget?
+# How to install it as a template from NuGet?
 * run `dotnet new -i Expecto.Template`
-* create new project executing `dotnet new expecto -n PROJECT_NAME -o FOLDER_NAME -lang F#`
+* create a new project executing `dotnet new expecto -n PROJECT_NAME -o FOLDER_NAME -lang F#`
 
 # How to install it as a template locally?
 * download repository
