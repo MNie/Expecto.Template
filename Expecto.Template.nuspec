@@ -8,9 +8,9 @@
     <licenseUrl>https://github.com/MNie/Expecto.Template/blob/master/LICENSE</licenseUrl>
     <projectUrl>https://github.com/MNie/Expecto.Template</projectUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
-    <description>Expecto .net Template</description>
+    <description>Expecto .NET Template</description>
     <copyright>Copyright 2019-2022</copyright>
-    <tags>.net Expecto template</tags>
+    <tags>.NET Expecto template</tags>
     <packageTypes>
       <packageType name="Template"/>
     </packageTypes>
